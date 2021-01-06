@@ -6,7 +6,7 @@ body{
 }
 .profile{
   height:100vh;
-  background:url("../images/bg-pattern-bottom.png") bottom -670px right -290px no-repeat, url("../images/bg-pattern-top.png") top -540px left -370px no-repeat;
+  background:url("bg-pattern-bottom.png") bottom -670px right -290px no-repeat, url("bg-pattern-top.png") top -540px left -370px no-repeat;
    background-color: hsl(185, 75%, 39%);
    position:relative;
 
@@ -27,7 +27,7 @@ body{
 .pattern-bog{
   top:0;
   left:0;
-  background-image:url("../images/bg-pattern-card.png");
+  background-image:url("bg-pattern-card.png");
   height:143px;
   border-radius:5%;
 
